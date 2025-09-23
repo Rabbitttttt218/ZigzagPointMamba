@@ -1,1 +1,8 @@
-
+NAME: ModelNet
+DATA_PATH: data/ModelNet/modelnet40_normal_resampled
+N_POINTS: 8192
+NUM_CATEGORY: 40
+USE_NORMALS: FALSE
+use_zigzag: true
+num_paths: 6
+zigzag_indices: [0, 1, 2, 3, 4, 5]
