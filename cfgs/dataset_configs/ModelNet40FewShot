@@ -1,1 +1,8 @@
-
+NAME: ModelNetFewShot
+DATA_PATH: /home/dlss107552304043/PointMamba/data/ModelNetFewshot
+N_POINTS: 8192
+NUM_CATEGORY: 40
+USE_NORMALS: FALSE
+use_zigzag: true
+num_paths: 6
+zigzag_indices: [0, 1, 2, 3, 4, 5]
