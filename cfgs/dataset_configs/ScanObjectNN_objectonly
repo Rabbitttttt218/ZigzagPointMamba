@@ -1,1 +1,5 @@
-
+NAME: ScanObjectNN
+ROOT: data/ScanObjectNN/main_split_nobg
+use_zigzag: true
+num_paths: 6
+zigzag_indices: [0, 1, 2, 3, 4, 5]
