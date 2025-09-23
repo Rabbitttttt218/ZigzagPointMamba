@@ -1,1 +1,7 @@
-
+NAME: ShapeNet
+DATA_PATH: data/ShapeNet55-34/ShapeNet-55
+N_POINTS: 1024
+PC_PATH: data/ShapeNet55-34/shapenet_pc
+use_zigzag: true
+num_paths: 6
+zigzag_indices: [0, 1, 2, 3, 4, 5]
