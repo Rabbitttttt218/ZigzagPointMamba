@@ -1,2 +1,2 @@
 # ZigzagPointMamba
-Spatial-Semantic Mamba for Point Cloud Understanding
+ZigzagPointMamba:Spatial-Semantic Mamba for Point Cloud Understanding
