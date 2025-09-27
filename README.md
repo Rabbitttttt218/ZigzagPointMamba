@@ -21,14 +21,7 @@
 
 
 ## Abstract
-State Space models (SSMs) like PointMamba provide efficient feature extraction for point cloud self-supervised learning with linear complexity, surpassing Transformers in computational efficiency. However, existing PointMamba-based methods rely on complex token ordering and random masking, disrupting spatial continuity and local semantic correlations. We propose <strong>ZigzagPointMamba</strong> to address these challenges:
-1. **Zigzag Scan Path**: A simple global sequencing method for point cloud tokens, preserving spatial proximity of adjacent points to enhance continuity.
-2. **Semantic-Siamese Masking Strategy (SMS)**: Masks semantically similar tokens to facilitate reconstruction via integrating original and similar token features, avoiding dependence on isolated local features.
-
-Our pre-trained weights significantly boost downstream tasks:
-- +1.59% mIoU on ShapeNetPart (part segmentation)
-- +0.4% accuracy on ModelNet40 (classification)
-- +0.19% / +1.22% / +0.72% accuracy on ScanObjectNN (OBJ-BG / OBJ-ONLY / PB-T50-RS subsets)
+State Space models (SSMs) like PointMamba provide efficient feature extraction for point cloud self-supervised learning with linear complexity, surpassing Transformers in computational efficiency. However, existing PointMamba-based methods rely on complex token ordering and random masking, disrupting spatial continuity and local semantic correlations. We propose <strong>ZigzagPointMamba</strong> to address these challenges. The key to our approach is a simple zigzag scan path that globally sequences point cloud tokens, enhancing spatial continuity by preserving the proximity of spatially adjacent point tokens. Yet, random masking impairs local semantic modeling in self-supervised learning. To overcome this, we introduce a Semantic-Siamese Masking Strategy (SMS), which masks semantically similar tokens to facilitate reconstruction by integrating local features of original and similar tokens, thus overcoming dependence on isolated local features and enabling robust global semantic modeling. Our pre-training ZigzagPointMamba weights significantly boost downstream tasks, achieving a 1.59% mIoU gain on ShapeNetPart for part segmentation, a 0.4% higher accuracy on ModelNet40 for classification, and 0.19%, 1.22%, and 0.72% higher accuracies respectively for the classification tasks on the OBJ-BG, OBJ-ONLY, and PB-T50-RS subsets of ScanObjectNN.
 
 
 ## 📊 Experimental Results
