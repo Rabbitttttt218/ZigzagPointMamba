@@ -48,6 +48,16 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 #### ScanObjectNN Results
 <p align="center"><img src="ZigzagPointMamba_html/static/images/ScanobjNN.png" height=250></p>
 
+## Getting Started
+
+### Datasets
+
+See [DATASET.md](./docs/DATASET.md) for details.
+
+### Usage
+
+See [USAGE.md](./docs/USAGE.md) for details.
+
 ## 📚 Citation
 ```bibtex
 @inproceedings{diao2025zigzagpointmamba,
