@@ -52,7 +52,7 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 
 ### Datasets
 
-See [DATASET.md](./docs/DATASET.md) for details.
+See [DATASET.md](DATASET.md) for details.
 
 ### Usage
 
