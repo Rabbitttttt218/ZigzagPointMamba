@@ -56,7 +56,7 @@ See [DATASET.md](DATASET.md) for details.
 
 ### Usage
 
-See [USAGE.md](./docs/USAGE.md) for details.
+See [USAGE.md](USAGE.md) for details.
 
 ## 📚 Citation
 ```bibtex
