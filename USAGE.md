@@ -92,3 +92,10 @@ CUDA_VISIBLE_DEVICES=<GPUs> python main.py --config cfgs/fewshot.yaml --finetune
 CUDA_VISIBLE_DEVICES=0 python main.py --config cfgs/pretrain.yaml --exp_name <name> --resume
 
 ```
+
+## Resume
+
+```shell
+CUDA_VISIBLE_DEVICES=0 python main.py --config cfgs/pretrain.yaml --exp_name <name> --resume
+
+```
