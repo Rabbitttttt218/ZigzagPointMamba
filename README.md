@@ -30,12 +30,16 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 ### Key Visualizations
 #### Zigzag Path & Masking
 <p align="center"><img src="ZigzagPointMamba_html/static/images/zigzag_path_and_masking.png" height=250></p>3D zigzag scan path (spatial continuity) + SMS semantic masking.
+
 #### Comprehensive Results
 <p align="center"><img src="ZigzagPointMamba_html/static/images/comprehensive_results.png" height=250></p>(a) Cross-dataset performance; (b) SMS vs. random masking; (c) Feature fine-tuning effect.
+
 #### ModelNet40 & ShapeNetPart
 <p align="center"><img src="ZigzagPointMamba_html/static/images/Classification_on_ModelNet40_and_Part_Seg_on_ShapeNetPart.png" height=250></p>Classification (ModelNet40) and part segmentation (ShapeNetPart) results.
+
 #### Few-shot Learning
 <p align="center"><img src="ZigzagPointMamba_html/static/images/Few-shot.png" height=250></p>Superior few-shot classification performance on ModelNet40.
+
 #### ScanObjectNN Results
 <p align="center"><img src="ZigzagPointMamba_html/static/images/ScanobjNN.png" height=250></p>Consistent accuracy gains across all ScanObjectNN subsets.
 
