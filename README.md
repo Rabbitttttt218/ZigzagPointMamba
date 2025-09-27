@@ -53,7 +53,7 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 @inproceedings{diao2025zigzagpointmamba,
   title={ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding},
   author={Diao, Linshuang and Song, Sensen and Qian, Yurong and Ren, Dayong},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},  % NeurIPS 标准会议名称
-  volume={39},  % NeurIPS 2025 为第 39 届（对应会议届数）
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  volume={39},
   year={2025}
 }
