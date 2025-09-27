@@ -16,7 +16,7 @@
   <a href="https://arxiv.org/pdf/2505.21381.pdf"><img src="https://img.shields.io/static/v1?label=PDF&message=Download&color=green"></a>  
 </div>
 <p align="center">
-  <img src="static/images/pipeline.png" height=400>
+  <img src="ZigzagPointMamba_html/static/images/pipeline.png" height=400>
 </p>
 
 
