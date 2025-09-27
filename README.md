@@ -1,19 +1,23 @@
 # ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding
 <div align='center'>
     <a href='mailto:107552304043@stu.xju.edu.cn' target='_blank'>Linshuang Diao</a><sup>1</sup> 
-    <a href='mailto:songsensen@stu.xju.edu.cn' target='_blank'>Sensen Song</a><sup>1</sup> 
-    <a href='mailto:qyr@stu.xju.edu.cn' target='_blank'>Yurong Qian</a><sup>1</sup> 
-    <a href='mailto:rdyedu@gmail.com' target='_blank'>Dayong Ren</a><sup>2</sup>
+    <a href='mailto:songsensen@stu.xju.edu.cn' target='_blank'>Sensen Song</a><sup>1†</sup> 
+    <a href='mailto:qyr@stu.xju.edu.cn' target='_blank'>Yurong Qian</a><sup>2</sup> 
+    <a href='mailto:rdyedu@gmail.com' target='_blank'>Dayong Ren</a><sup>3†</sup>
 </div>
 <div align='center'>
-    <sup>1</sup>Xinjiang University  <sup>2</sup>Nanjing University 
+    <sup>1</sup>Key Laboratory of Signal Detection and Processing, Xinjiang University   
+    <sup>2</sup>Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing, Xinjiang University   
+    <sup>3</sup>Department of Computer Science and Technology, Nanjing University  
+    <br>
+    <sup>†</sup>Corresponding authors (通讯作者)
 </div>
 <br>
 <div align="center">
-  <!-- 本地路径：直接指向 index.html 的相对路径，确保 Markdown 文件与 ZigzagPointMamba_html 文件夹在同一层级 -->
-  <a href="ZigzagPointMamba_html/index.html" target="_blank"><img src="https://img.shields.io/static/v1?label=ZizagPointMamba&message=Page&color=purple"></a>  
-  <a href="https://arxiv.org/abs/2505.21381"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a>  
-  <a href="https://github.com/Rabbitttttt218/ZigzagPointMamba"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue&logo=github"></a>  
+  <!-- 本地路径：确保 Markdown 与 ZigzagPointMamba_html 同级，点击打开网页 -->
+  <a href="ZigzagPointMamba_html/index.html" target="_blank"><img src="https://img.shields.io/static/v1?label=ZigzagPointMamba&message=Project&color=purple"></a>  
+  <a href="https://arxiv.org/abs/2505.21381"><img src="https://img.shields.io/static/v1?label=Paper&message=ArXiv&color=red&logo=arxiv"></a>  
+  <a href="https://github.com/Rabbitttttt218/ZigzagPointMamba"><img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&logo=github"></a>  
   <a href="https://arxiv.org/pdf/2505.21381.pdf"><img src="https://img.shields.io/static/v1?label=PDF&message=Download&color=green"></a>  
 </div>
 <p align="center">
