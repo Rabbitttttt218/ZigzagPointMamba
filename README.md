@@ -10,7 +10,7 @@
     <sup>2</sup>Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing, Xinjiang University   
     <sup>3</sup>Department of Computer Science and Technology, Nanjing University  
     <br>
-    <sup>†</sup>Corresponding authors (通讯作者)
+    <sup>†</sup>Corresponding authors
 </div>
 <br>
 <div align="center">
