@@ -16,7 +16,7 @@
   <a href="https://arxiv.org/pdf/2505.21381.pdf"><img src="https://img.shields.io/static/v1?label=PDF&message=Download&color=green"></a>  
 </div>
 <p align="center">
-  <img src="ZigzagPointMamba_NeurIPS_2025/static/images/pipeline.png" height=400>
+  <img src="static/images/pipeline.png" height=400>
 </p>
 
 
@@ -35,17 +35,17 @@ Our pre-trained weights significantly boost downstream tasks:
 ### Key Visualizations
 | Visualization Title | Image | Description |
 |---------------------|-------|-------------|
-| Pipeline Overview | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/pipeline.png" height=250></p> | ZigzagPointMamba pre-training workflow (zigzag scan + SMS masking). |
-| Zigzag Path & Masking | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/zigzag_path_and_masking.png" height=250></p> | 3D zigzag scan path (spatial continuity) + SMS semantic masking. |
-| Comprehensive Results | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/comprehensive_results.png" height=250></p> | (a) Cross-dataset performance; (b) SMS vs. random masking; (c) Feature fine-tuning effect. |
-| ModelNet40 & ShapeNetPart | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/Classification_on_ModelNet40_and_Part_Seg_on_ShapeNetPart.png" height=250></p> | Classification (ModelNet40) and part segmentation (ShapeNetPart) results. |
-| Few-shot Learning | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/Few-shot.png" height=250></p> | Superior few-shot classification performance on ModelNet40. |
-| ScanObjectNN Results | <p align="center"><img src="ZigzagPointMamba_NeurIPS_2025/static/images/ScanobjNN.png" height=250></p> | Consistent accuracy gains across all ScanObjectNN subsets. |
+| Pipeline Overview | <p align="center"><img src="static/images/pipeline.png" height=250></p> | ZigzagPointMamba pre-training workflow (zigzag scan + SMS masking). |
+| Zigzag Path & Masking | <p align="center"><img src="static/images/zigzag_path_and_masking.png" height=250></p> | 3D zigzag scan path (spatial continuity) + SMS semantic masking. |
+| Comprehensive Results | <p align="center"><img src="static/images/comprehensive_results.png" height=250></p> | (a) Cross-dataset performance; (b) SMS vs. random masking; (c) Feature fine-tuning effect. |
+| ModelNet40 & ShapeNetPart | <p align="center"><img src="static/images/Classification_on_ModelNet40_and_Part_Seg_on_ShapeNetPart.png" height=250></p> | Classification (ModelNet40) and part segmentation (ShapeNetPart) results. |
+| Few-shot Learning | <p align="center"><img src="static/images/Few-shot.png" height=250></p> | Superior few-shot classification performance on ModelNet40. |
+| ScanObjectNN Results | <p align="center"><img src="static/images/ScanobjNN.png" height=250></p> | Consistent accuracy gains across all ScanObjectNN subsets. |
 
 
 ## 📝 Poster
 <p align="center">
-  <iframe src="ZigzagPointMamba_NeurIPS_2025/static/pdfs/NeurIPS2025_9291_ZiazagPointMamba.pdf" width="80%" height="500"></iframe>
+  <iframe src="static/pdfs/NeurIPS2025_9291_ZiazagPointMamba.pdf" width="80%" height="500"></iframe>
 </p>
 
 
