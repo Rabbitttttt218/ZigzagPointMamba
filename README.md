@@ -37,13 +37,6 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 | Few-shot Learning | <p align="center"><img src="static/images/Few-shot.png" height=250></p> | Superior few-shot classification performance on ModelNet40. |
 | ScanObjectNN Results | <p align="center"><img src="static/images/ScanobjNN.png" height=250></p> | Consistent accuracy gains across all ScanObjectNN subsets. |
 
-
-## 📝 Poster
-<p align="center">
-  <iframe src="static/pdfs/NeurIPS2025_9291_ZiazagPointMamba.pdf" width="80%" height="500"></iframe>
-</p>
-
-
 ## 📚 Citation
 ```bibtex
 @inproceedings{diao2025zigzagpointmamba,
