@@ -15,6 +15,7 @@
 <br>
 <div align="center">
   <!-- 本地路径：确保 Markdown 与 ZigzagPointMamba_html 同级，点击打开网页 -->
+  <a href="https://Rabbitttttt218.github.io/ZigzagPointMamba/ZigzagPointMamba_html/index.html" target="_blank"><img src="https://img.shields.io/static/v1?label=ZigzagPointMamba&message=Project&color=purple"></a>  
   <a href="https://arxiv.org/abs/2505.21381"><img src="https://img.shields.io/static/v1?label=Paper&message=ArXiv&color=red&logo=arxiv"></a>  
   <a href="https://github.com/Rabbitttttt218/ZigzagPointMamba"><img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&logo=github"></a>  
   <a href="https://arxiv.org/pdf/2505.21381.pdf"><img src="https://img.shields.io/static/v1?label=PDF&message=Download&color=green"></a>  
