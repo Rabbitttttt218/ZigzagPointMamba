@@ -34,19 +34,19 @@ State Space models (SSMs) like PointMamba provide efficient feature extraction f
 ## 📊 Experimental Results
 ### Key Visualizations
 #### Zigzag Path & Masking
-<p align="center"><img src="ZigzagPointMamba/ZigzagPointMamba_html/static/images/zigzag_path_and_masking.png" height=250></p>
+<p align="center"><img src="ZigzagPointMamba_html/static/images/zigzag_path_and_masking.png" height=250></p>
 
 #### Comprehensive Results
-<p align="center"><img src="ZigzagPointMamba/ZigzagPointMamba_html/static/images/comprehensive_results.png" height=250></p>
+<p align="center"><img src="ZigzagPointMamba_html/static/images/comprehensive_results.png" height=250></p>
 
 #### ModelNet40 & ShapeNetPart
-<p align="center"><img src="ZigzagPointMamba/ZigzagPointMamba_html/static/images/Classification_on_ModelNet40_and_Part_Seg_on_ShapeNetPart.png" height=250></p>
+<p align="center"><img src="ZigzagPointMamba_html/static/images/Classification_on_ModelNet40_and_Part_Seg_on_ShapeNetPart.png" height=250></p>
 
 #### Few-shot Learning
-<p align="center"><img src="ZigzagPointMamba/ZigzagPointMamba_html/static/images/Few-shot.png" height=250></p>
+<p align="center"><img src="ZigzagPointMamba_html/static/images/Few-shot.png" height=250></p>
 
 #### ScanObjectNN Results
-<p align="center"><img src="ZigzagPointMamba/ZigzagPointMamba_html/static/images/ScanobjNN.png" height=250></p>
+<p align="center"><img src="ZigzagPointMamba_html/static/images/ScanobjNN.png" height=250></p>
 
 ## Getting Started
 
