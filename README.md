@@ -11,7 +11,7 @@
 <br>
 <div align="center">
   <!-- 本地路径：直接指向 index.html 的相对路径，确保 Markdown 文件与 ZigzagPointMamba_html 文件夹在同一层级 -->
-  <a href="ZigzagPointMamba_html/index.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=purple"></a>  
+  <a href="ZigzagPointMamba_html/index.html" target="_blank"><img src="https://img.shields.io/static/v1?label=ZizagPointMamba&message=Page&color=purple"></a>  
   <a href="https://arxiv.org/abs/2505.21381"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a>  
   <a href="https://github.com/Rabbitttttt218/ZigzagPointMamba"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue&logo=github"></a>  
   <a href="https://arxiv.org/pdf/2505.21381.pdf"><img src="https://img.shields.io/static/v1?label=PDF&message=Download&color=green"></a>  
